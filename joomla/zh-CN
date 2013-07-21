@@ -1,0 +1,20 @@
+; copyright Copyright (C) YOOtheme GmbH. All rights reserved.
+; license http://www.gnu.org/licenses/gpl.html GNU/GPL
+; Note : All ini files need to be saved as UTF-8
+
+TPL_WARP_SEARCH="搜索..."
+TPL_WARP_SEARCH_RESULTS="搜索结果"
+TPL_WARP_SEARCH_MORE="更多结果"
+TPL_WARP_SEARCH_NO_RESULTS="没有相应搜索结果"
+TPL_WARP_EDIT_ARTICLE="编辑文章"
+TPL_WARP_CREATE_ARTICLE="创建新文章"
+TPL_WARP_CONTINUE_READING="继续阅读"
+TPL_WARP_META_AUTHOR_DATE="作者：%s 日期：%s."
+TPL_WARP_META_AUTHOR="作者：%s."
+TPL_WARP_META_DATE="日期：%s."
+TPL_WARP_META_CATEGORY="文章分类：%s"
+TPL_WARP_TAGS="标签"
+TPL_WARP_404_PAGE_TITLE="无法找到该页面"
+TPL_WARP_404_PAGE_MESSAGE="您正在查找的页面不存在，或者产生了未知错误。<br class="uk-hidden-small"> <a href="_QQ_"javascript:history.go(-1)"_QQ_">返回</a>，或者回到<a href="_QQ_"%s"_QQ_">%s</a>选择新的跳转路径。"
+TPL_WARP_OFFLINE_PAGE_TITLE="我们很快就会回来"
+TPL_WARP_OFFLINE_PAGE_MESSAGE="该网站正在维护中，请稍后再试。允许管理员登陆："
